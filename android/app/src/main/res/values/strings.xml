@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BharatTV Live</string>
+    <string name="search_placeholder">Search Indian channels…</string>
+    <string name="retry">Retry</string>
+    <string name="no_channels_found">No channels found</string>
+    <string name="loading_channels">Loading Indian Live Channels…</string>
+    <string name="source_india">All India (in.m3u)</string>
+    <string name="source_hindi">Hindi Channels (hin.m3u)</string>
+</resources>

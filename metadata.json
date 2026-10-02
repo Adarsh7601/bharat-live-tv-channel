@@ -1,0 +1,6 @@
+{
+  "name": "BharatTV Live - Indian TV Streamer",
+  "description": "Stream free, live Indian television channels with M3U playlist parsing, HLS playback, and complete Android Jetpack Compose codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
